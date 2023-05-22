@@ -1,0 +1,6 @@
+console.log("Hello")
+document.write("2")
+console.warn("bu bir xeberdarliqdir")
+console.error("bu bir error-dur")
+// alert("bu bir HTML sehifesir")
+alert(window.location)
