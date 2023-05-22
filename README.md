@@ -4,13 +4,13 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/cavidsuleyman/Ballon-Game?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/cavidsuleyman/Ballon-Game?style=for-the-badge)
 
-  # Ballon-Game
+  # Test
 
-Hello, welcome to this lesson. Today I create with html, css and js file for Ballon-GAME. I use here html, css and js tags. 
+Hello, welcome to this lesson. Today I create with html, css and js file for TEST. I use here html, css and js tags. 
 ## ## RULES OF USE
 
 > *STEP-1:* `https://github.com/cavidsuleyman/Ballon-Game.git` <br/>
-> *STEP-2:*  enter the `Ballon-Game` folder that appears <br/>
+> *STEP-2:*  enter the `TEST` folder that appears <br/>
 > *STEP-3:*  open the folder you are in in a text editor <br/>
 > *STEP-4:*  run the  all the`index.html` files in the main folder <br/>
 > *STEP-5:*  to download the project as `.zip`  [here](https://github.com/cavidsuleyman/Ballon-Game/archive/refs/heads/master.zip) click <br/>
